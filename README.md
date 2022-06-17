@@ -24,9 +24,10 @@ npm i create-sveltekit-route@latest
 npm i -g create-sveltekit-route@latest
 ```
 CLI --> JS --> FULL
-<img src="./images/1-all-js.png">
+
+<img src="1-all-js.png">
 RESULT --> FULL <br/>
-<img src="./images/2-all-js.png">
+<img src="2-all-js.png">
 
 ## Author
 
