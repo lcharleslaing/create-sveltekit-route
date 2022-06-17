@@ -8,6 +8,11 @@
 
 ### 🏠 [Homepage](https://github.com/lcharleslaing/create-sveltekit-auth0)
 
+## Run without installing
+
+```sh
+npx create-sveltekit-route
+```
 ## Install Locally
 
 ```sh
@@ -18,6 +23,10 @@ npm i create-sveltekit-route@latest
 ```sh
 npm i -g create-sveltekit-route@latest
 ```
+CLI --> JS --> FULL
+<img src="./images/1-all-js.png">
+RESULT --> FULL <br/>
+<img src="./images/2-all-js.png">
 
 ## Author
 
