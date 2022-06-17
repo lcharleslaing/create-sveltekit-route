@@ -1,6 +1,6 @@
 {
   "name": "create-sveltekit-route",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A CLI tool to Scaffold a new Sveltekit Route within your project",
   "main": "app.js",
   "dependencies": {
