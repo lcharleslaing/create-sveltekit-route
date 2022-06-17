@@ -8,42 +8,16 @@
 
 ### 🏠 [Homepage](https://github.com/lcharleslaing/create-sveltekit-auth0)
 
-## Install
+## Install Locally
 
 ```sh
-npx create-sveltekit-auth0
+npm i create-sveltekit-route@latest
 ```
-## Dependency Install
+## Install Globally
 
-Auto installs ```npm install @auth0/auth0-spa-js```
-Auto installs ```npm install```
-
-## CLI Questions
-   Enter the CLI questions whhich will create a new ```NEW-README.md``` that has more detail than the svelte generated one. It can be used in place of the Svelte generated one or simply delete it.  The required files will be added to your project.
-
-## Created Directories/Files
-
-1. Created directories (if they don't already exist)
-    1. ```./src/lib/auth```
-    2. ```./src/lib/components```
-2. Created files or if they exist, they will be prepended to.
-    1. ```NEW-README.md```
-    2. ```RENAME.env```
-    3. ```auth0_config.js```
-    4. ```auth0_service.js```
-    5. ```authStore.js```
-    6. ```NavbarAuth0.svelte```
-    7. ```SveltekitAuth0.svelte```
-    8. ```__layout.svelte```
-
-## Todo's after CLI install
-
- 1. Rename ```RENAME.env``` to ```.env``` or copy contents to existing ```.env```
- 2. Edit .env variables with your Auth0 account credentials
- 3. Rename ```NEW-README.md``` to ```README.md``` or copy desired contents to existing ```README.md```
- 4. ```npm run dev```
- 5. Style the Login & Logout Buttons anyway you'd like.
- 6. Enjoy the creating and if you have any issues, visit my github repo and create an issue.
+```sh
+npm i -g create-sveltekit-route@latest
+```
 
 ## Author
 
